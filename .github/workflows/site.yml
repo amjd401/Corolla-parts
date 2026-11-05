@@ -3,7 +3,9 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '15 3,9,15,21 * * *'
+    # Wakes up every hour; the check only runs when the last one is 6 hours old.
+    # GitHub sometimes skips scheduled runs, so the next hour catches up.
+    - cron: '37 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -13,21 +15,35 @@ concurrency:
   group: corolla-pages
   cancel-in-progress: false
 jobs:
-  publish:
+  check:
     runs-on: ubuntu-latest
     timeout-minutes: 20
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    outputs:
+      due: ${{ steps.due.outputs.due }}
+      not_renewed: ${{ steps.report.outputs.not_renewed }}
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
+      - name: Is a check due?
+        id: due
+        run: |
+          python3 - <<'PY'
+          import json, os, time
+          from datetime import datetime
+          event = os.environ['GITHUB_EVENT_NAME']
+          items = json.load(open('data.json'))['items'].values()
+          times = [datetime.fromisoformat(i['lastAttemptAt'].replace('Z', '+00:00')).timestamp() for i in items if i.get('lastAttemptAt')]
+          age = (time.time() - max(times)) / 3600 if times else 99
+          due = event == 'workflow_dispatch' or (event == 'schedule' and age >= 5.6)
+          print(f'Last check {age:.1f} hours ago. Check now: {due}')
+          open(os.environ['GITHUB_OUTPUT'], 'a').write(f"due={'true' if due else 'false'}\n")
+          PY
       - name: Check all dealer parts and offers
-        if: github.event_name != 'push'
+        if: steps.due.outputs.due == 'true'
         run: python3 refresh.py
       - name: Save results in repository
-        if: github.event_name != 'push'
+        if: steps.due.outputs.due == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -36,6 +52,22 @@ jobs:
             git commit -m 'Update dealer availability and offers'
             git push origin HEAD:main
           fi
+      - name: Count part numbers the dealer did not confirm
+        id: report
+        if: steps.due.outputs.due == 'true'
+        run: python3 -c "import json,os; r=json.load(open('refresh-report.json')); open(os.environ['GITHUB_OUTPUT'],'a').write('not_renewed=%d\n' % len(r['notRenewed']))"
+  publish:
+    needs: check
+    if: github.event_name == 'push' || needs.check.outputs.due == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
       - name: Prepare website files
         run: |
           mkdir _site
@@ -49,5 +81,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
       - name: Report part numbers the dealer did not confirm
-        if: github.event_name != 'push'
-        run: python3 -c "import json,sys; r=json.load(open('refresh-report.json')); sys.exit(1 if r['notRenewed'] else 0)"
+        if: needs.check.outputs.not_renewed != '' && needs.check.outputs.not_renewed != '0'
+        run: |
+          echo "${{ needs.check.outputs.not_renewed }} part numbers were not confirmed by the dealer. See the check job summary."
+          exit 1
