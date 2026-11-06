@@ -1,9 +1,9 @@
-name: Website and 6-hour dealer check
+name: Website and 9-hour dealer check
 on:
   push:
     branches: [main]
   schedule:
-    # Wakes up every hour; the check only runs when the last one is 6 hours old.
+    # Wakes up every hour; the check only runs when the last one is 9 hours old.
     # GitHub sometimes skips scheduled runs, so the next hour catches up.
     - cron: '37 * * * *'
   workflow_dispatch:
@@ -35,7 +35,7 @@ jobs:
           items = json.load(open('data.json'))['items'].values()
           times = [datetime.fromisoformat(i['lastAttemptAt'].replace('Z', '+00:00')).timestamp() for i in items if i.get('lastAttemptAt')]
           age = (time.time() - max(times)) / 3600 if times else 99
-          due = event == 'workflow_dispatch' or (event == 'schedule' and age >= 5.6)
+          due = event == 'workflow_dispatch' or (event == 'schedule' and age >= 8.6)
           print(f'Last check {age:.1f} hours ago. Check now: {due}')
           open(os.environ['GITHUB_OUTPUT'], 'a').write(f"due={'true' if due else 'false'}\n")
           PY
