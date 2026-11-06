@@ -3,72 +3,72 @@
   "1780177050": {
    "part": "1780177050",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:31.700Z",
-   "checkedAt": "2026-11-06T06:49:31.700Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.171Z",
+   "checkedAt": "2026-11-06T07:21:17.171Z",
    "source": "https://parts.toyota.com.sa/en/product/1780177050",
    "offer": {
     "regular": 299.0,
     "sale": 254.15,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:31.700Z"
+   "offerCheckedAt": "2026-11-06T07:21:17.171Z"
   },
   "1780121060": {
    "part": "1780121060",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:31.701Z",
-   "checkedAt": "2026-11-06T06:49:31.701Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.172Z",
+   "checkedAt": "2026-11-06T07:21:17.172Z",
    "source": "https://parts.toyota.com.sa/en/product/1780121060",
    "offer": {
     "regular": 193.2,
     "sale": 164.22,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:31.701Z"
+   "offerCheckedAt": "2026-11-06T07:21:17.172Z"
   },
   "8713958010": {
    "part": "8713958010",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:31.701Z",
-   "checkedAt": "2026-11-06T06:49:31.701Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.173Z",
+   "checkedAt": "2026-11-06T07:21:17.173Z",
    "source": "https://parts.toyota.com.sa/en/product/8713958010",
    "offer": {
     "regular": 603.75,
     "sale": 249.66,
     "percent": 58.65
    },
-   "offerCheckedAt": "2026-11-06T06:49:31.701Z"
+   "offerCheckedAt": "2026-11-06T07:21:17.173Z"
   },
   "8713902210": {
    "part": "8713902210",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:31.702Z",
-   "checkedAt": "2026-11-06T06:49:31.702Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.173Z",
+   "checkedAt": "2026-11-06T07:21:17.173Z",
    "source": "https://parts.toyota.com.sa/en/product/8713902210",
    "offer": {
     "regular": 434.7,
     "sale": 369.5,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:31.702Z"
+   "offerCheckedAt": "2026-11-06T07:21:17.173Z"
   },
   "7710312160": {
    "part": "7710312160",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:31.702Z",
-   "checkedAt": "2026-11-06T06:49:31.702Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.174Z",
+   "checkedAt": "2026-11-06T07:21:17.174Z",
    "source": "https://parts.toyota.com.sa/en/product/7710312160",
    "offer": {
     "regular": 274.85,
     "sale": 233.62,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:31.702Z"
+   "offerCheckedAt": "2026-11-06T07:21:17.174Z"
   },
   "7710312150": {
    "part": "7710312150",
    "state": "unknown",
-   "lastAttemptAt": "2026-11-06T06:49:31.706Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.177Z",
    "checkedAt": null,
    "source": "https://parts.toyota.com.sa/en/product/7710312150",
    "reason": "source_unavailable",
@@ -78,228 +78,228 @@
   "G92DH12050": {
    "part": "G92DH12050",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:31.708Z",
-   "checkedAt": "2026-11-06T06:49:31.708Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.178Z",
+   "checkedAt": "2026-11-06T07:21:17.178Z",
    "source": "https://parts.toyota.com.sa/en/product/G92DH12050",
    "offer": {
     "regular": 51.75,
     "sale": 43.99,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:31.708Z"
+   "offerCheckedAt": "2026-11-06T07:21:17.178Z"
   },
   "9043012031": {
    "part": "9043012031",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:31.710Z",
-   "checkedAt": "2026-11-06T06:49:31.710Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.179Z",
+   "checkedAt": "2026-11-06T07:21:17.179Z",
    "source": "https://parts.toyota.com.sa/en/product/9043012031",
    "offer": {
     "regular": 6.2,
     "sale": 5.27,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:31.710Z"
+   "offerCheckedAt": "2026-11-06T07:21:17.179Z"
   },
   "0446512670": {
    "part": "0446512670",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:32.235Z",
-   "checkedAt": "2026-11-06T06:49:32.235Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.845Z",
+   "checkedAt": "2026-11-06T07:21:17.845Z",
    "source": "https://parts.toyota.com.sa/en/product/0446512670",
    "offer": {
     "regular": 569.25,
     "sale": 483.86,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:32.235Z"
+   "offerCheckedAt": "2026-11-06T07:21:17.845Z"
   },
   "0446647110": {
    "part": "0446647110",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:32.235Z",
-   "checkedAt": "2026-11-06T06:49:32.235Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.846Z",
+   "checkedAt": "2026-11-06T07:21:17.846Z",
    "source": "https://parts.toyota.com.sa/en/product/0446647110",
    "offer": {
     "regular": 365.7,
     "sale": 181.46,
     "percent": 50.38
    },
-   "offerCheckedAt": "2026-11-06T06:49:32.235Z"
+   "offerCheckedAt": "2026-11-06T07:21:17.846Z"
   },
   "8521428080": {
    "part": "8521428080",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:32.235Z",
-   "checkedAt": "2026-11-06T06:49:32.235Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.846Z",
+   "checkedAt": "2026-11-06T07:21:17.846Z",
    "source": "https://parts.toyota.com.sa/en/product/8521428080",
    "offer": {
     "regular": 116.15,
     "sale": 43.67,
     "percent": 62.4
    },
-   "offerCheckedAt": "2026-11-06T06:49:32.235Z"
+   "offerCheckedAt": "2026-11-06T07:21:17.846Z"
   },
   "8521468030": {
    "part": "8521468030",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:32.235Z",
-   "checkedAt": "2026-11-06T06:49:32.235Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.846Z",
+   "checkedAt": "2026-11-06T07:21:17.846Z",
    "source": "https://parts.toyota.com.sa/en/product/8521468030",
    "offer": {
     "regular": 53.48,
     "sale": 45.45,
     "percent": 15.01
    },
-   "offerCheckedAt": "2026-11-06T06:49:32.235Z"
+   "offerCheckedAt": "2026-11-06T07:21:17.846Z"
   },
   "9091510009": {
    "part": "9091510009",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:32.236Z",
-   "checkedAt": "2026-11-06T06:49:32.236Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.846Z",
+   "checkedAt": "2026-11-06T07:21:17.846Z",
    "source": "https://parts.toyota.com.sa/en/product/9091510009",
    "offer": {
     "regular": 81.65,
     "sale": 65.32,
     "percent": 20.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:32.236Z"
+   "offerCheckedAt": "2026-11-06T07:21:17.846Z"
   },
   "90915YZZN2": {
    "part": "90915YZZN2",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:32.236Z",
-   "checkedAt": "2026-11-06T06:49:32.236Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.846Z",
+   "checkedAt": "2026-11-06T07:21:17.846Z",
    "source": "https://parts.toyota.com.sa/en/product/90915YZZN2",
    "offer": {
     "regular": 41.4,
     "sale": 35.19,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:32.236Z"
+   "offerCheckedAt": "2026-11-06T07:21:17.846Z"
   },
   "0881380013": {
    "part": "0881380013",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:32.236Z",
-   "checkedAt": "2026-11-06T06:49:32.236Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.847Z",
+   "checkedAt": "2026-11-06T07:21:17.847Z",
    "source": "https://parts.toyota.com.sa/en/product/0881380013",
    "offer": {
     "regular": 113.85,
     "sale": 96.77,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:32.236Z"
+   "offerCheckedAt": "2026-11-06T07:21:17.847Z"
   },
   "0881380019": {
    "part": "0881380019",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:32.236Z",
-   "checkedAt": "2026-11-06T06:49:32.236Z",
+   "lastAttemptAt": "2026-11-06T07:21:17.847Z",
+   "checkedAt": "2026-11-06T07:21:17.847Z",
    "source": "https://parts.toyota.com.sa/en/product/0881380019",
    "offer": {
     "regular": 98.9,
     "sale": 84.07,
     "percent": 14.99
    },
-   "offerCheckedAt": "2026-11-06T06:49:32.236Z"
+   "offerCheckedAt": "2026-11-06T07:21:17.847Z"
   },
   "1647528140": {
    "part": "1647528140",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:32.670Z",
-   "checkedAt": "2026-11-06T06:49:32.670Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.269Z",
+   "checkedAt": "2026-11-06T07:21:18.269Z",
    "source": "https://parts.toyota.com.sa/en/product/1647528140",
    "offer": {
     "regular": 149.5,
     "sale": 127.08,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:32.670Z"
+   "offerCheckedAt": "2026-11-06T07:21:18.269Z"
   },
   "9091901297": {
    "part": "9091901297",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:32.670Z",
-   "checkedAt": "2026-11-06T06:49:32.670Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.269Z",
+   "checkedAt": "2026-11-06T07:21:18.269Z",
    "source": "https://parts.toyota.com.sa/en/product/9091901297",
    "offer": {
     "regular": 147.2,
     "sale": 125.12,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:32.670Z"
+   "offerCheckedAt": "2026-11-06T07:21:18.269Z"
   },
   "9091901298": {
    "part": "9091901298",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:32.670Z",
-   "checkedAt": "2026-11-06T06:49:32.670Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.269Z",
+   "checkedAt": "2026-11-06T07:21:18.269Z",
    "source": "https://parts.toyota.com.sa/en/product/9091901298",
    "offer": {
     "regular": 147.2,
     "sale": 125.12,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:32.670Z"
+   "offerCheckedAt": "2026-11-06T07:21:18.269Z"
   },
   "9091901275": {
    "part": "9091901275",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:32.670Z",
-   "checkedAt": "2026-11-06T06:49:32.670Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.269Z",
+   "checkedAt": "2026-11-06T07:21:18.269Z",
    "source": "https://parts.toyota.com.sa/en/product/9091901275",
    "offer": {
     "regular": 118.45,
     "sale": 100.68,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:32.670Z"
+   "offerCheckedAt": "2026-11-06T07:21:18.269Z"
   },
   "9091901301": {
    "part": "9091901301",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:32.670Z",
-   "checkedAt": "2026-11-06T06:49:32.670Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.269Z",
+   "checkedAt": "2026-11-06T07:21:18.269Z",
    "source": "https://parts.toyota.com.sa/en/product/9091901301",
    "offer": {
     "regular": 144.9,
     "sale": 123.17,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:32.670Z"
+   "offerCheckedAt": "2026-11-06T07:21:18.269Z"
   },
   "9091602772": {
    "part": "9091602772",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:32.671Z",
-   "checkedAt": "2026-11-06T06:49:32.671Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.270Z",
+   "checkedAt": "2026-11-06T07:21:18.270Z",
    "source": "https://parts.toyota.com.sa/en/product/9091602772",
    "offer": {
     "regular": 372.6,
     "sale": 316.71,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:32.671Z"
+   "offerCheckedAt": "2026-11-06T07:21:18.270Z"
   },
   "9091602679": {
    "part": "9091602679",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:32.671Z",
-   "checkedAt": "2026-11-06T06:49:32.671Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.270Z",
+   "checkedAt": "2026-11-06T07:21:18.270Z",
    "source": "https://parts.toyota.com.sa/en/product/9091602679",
    "offer": {
     "regular": 396.75,
     "sale": 337.24,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:32.671Z"
+   "offerCheckedAt": "2026-11-06T07:21:18.270Z"
   },
   "90916T2043": {
    "part": "90916T2043",
    "state": "unknown",
-   "lastAttemptAt": "2026-11-06T06:49:32.671Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.270Z",
    "checkedAt": null,
    "source": "https://parts.toyota.com.sa/en/product/90916T2043",
    "reason": "source_unavailable",
@@ -309,329 +309,329 @@
   "9091602755": {
    "part": "9091602755",
    "state": "unavailable",
-   "lastAttemptAt": "2026-11-06T06:49:33.161Z",
-   "checkedAt": "2026-11-06T06:49:33.161Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.680Z",
+   "checkedAt": "2026-11-06T07:21:18.680Z",
    "source": "https://parts.toyota.com.sa/en/product/9091602755",
    "offer": {
     "regular": 372.6,
     "sale": 316.71,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:33.161Z"
+   "offerCheckedAt": "2026-11-06T07:21:18.680Z"
   },
   "4504649255": {
    "part": "4504649255",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.161Z",
-   "checkedAt": "2026-11-06T06:49:33.161Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.680Z",
+   "checkedAt": "2026-11-06T07:21:18.680Z",
    "source": "https://parts.toyota.com.sa/en/product/4504649255",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:33.161Z"
+   "offerCheckedAt": "2026-11-06T07:21:18.680Z"
   },
   "4504749195": {
    "part": "4504749195",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.161Z",
-   "checkedAt": "2026-11-06T06:49:33.161Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.681Z",
+   "checkedAt": "2026-11-06T07:21:18.681Z",
    "source": "https://parts.toyota.com.sa/en/product/4504749195",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:33.161Z"
+   "offerCheckedAt": "2026-11-06T07:21:18.681Z"
   },
   "485108Z418": {
    "part": "485108Z418",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.161Z",
-   "checkedAt": "2026-11-06T06:49:33.161Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.682Z",
+   "checkedAt": "2026-11-06T07:21:18.682Z",
    "source": "https://parts.toyota.com.sa/en/product/485108Z418",
    "offer": {
     "regular": 1503.05,
     "sale": 1277.59,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:33.161Z"
+   "offerCheckedAt": "2026-11-06T07:21:18.682Z"
   },
   "485208Z272": {
    "part": "485208Z272",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.161Z",
-   "checkedAt": "2026-11-06T06:49:33.161Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.682Z",
+   "checkedAt": "2026-11-06T07:21:18.682Z",
    "source": "https://parts.toyota.com.sa/en/product/485208Z272",
    "offer": {
     "regular": 1503.05,
     "sale": 1277.59,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:33.161Z"
+   "offerCheckedAt": "2026-11-06T07:21:18.682Z"
   },
   "485308Z124": {
    "part": "485308Z124",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.162Z",
-   "checkedAt": "2026-11-06T06:49:33.162Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.682Z",
+   "checkedAt": "2026-11-06T07:21:18.682Z",
    "source": "https://parts.toyota.com.sa/en/product/485308Z124",
    "offer": {
     "regular": 529.0,
     "sale": 449.65,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:33.162Z"
+   "offerCheckedAt": "2026-11-06T07:21:18.682Z"
   },
   "485308Z120": {
    "part": "485308Z120",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.162Z",
-   "checkedAt": "2026-11-06T06:49:33.162Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.682Z",
+   "checkedAt": "2026-11-06T07:21:18.682Z",
    "source": "https://parts.toyota.com.sa/en/product/485308Z120",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:33.162Z"
+   "offerCheckedAt": "2026-11-06T07:21:18.682Z"
   },
   "4853002V10": {
    "part": "4853002V10",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.162Z",
-   "checkedAt": "2026-11-06T06:49:33.162Z",
+   "lastAttemptAt": "2026-11-06T07:21:18.683Z",
+   "checkedAt": "2026-11-06T07:21:18.683Z",
    "source": "https://parts.toyota.com.sa/en/product/4853002V10",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:33.162Z"
+   "offerCheckedAt": "2026-11-06T07:21:18.683Z"
   },
   "485308Z123": {
    "part": "485308Z123",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.574Z",
-   "checkedAt": "2026-11-06T06:49:33.574Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.099Z",
+   "checkedAt": "2026-11-06T07:21:19.099Z",
    "source": "https://parts.toyota.com.sa/en/product/485308Z123",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:33.574Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.099Z"
   },
   "485308Z122": {
    "part": "485308Z122",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.574Z",
-   "checkedAt": "2026-11-06T06:49:33.574Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.099Z",
+   "checkedAt": "2026-11-06T07:21:19.099Z",
    "source": "https://parts.toyota.com.sa/en/product/485308Z122",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:33.574Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.099Z"
   },
   "4860947060": {
    "part": "4860947060",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.574Z",
-   "checkedAt": "2026-11-06T06:49:33.574Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.099Z",
+   "checkedAt": "2026-11-06T07:21:19.099Z",
    "source": "https://parts.toyota.com.sa/en/product/4860947060",
    "offer": {
     "regular": 565.8,
     "sale": 480.93,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:33.574Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.099Z"
   },
   "4875076010": {
    "part": "4875076010",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.574Z",
-   "checkedAt": "2026-11-06T06:49:33.574Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.100Z",
+   "checkedAt": "2026-11-06T07:21:19.100Z",
    "source": "https://parts.toyota.com.sa/en/product/4875076010",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:33.574Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.100Z"
   },
   "487500A030": {
    "part": "487500A030",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.574Z",
-   "checkedAt": "2026-11-06T06:49:33.574Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.100Z",
+   "checkedAt": "2026-11-06T07:21:19.100Z",
    "source": "https://parts.toyota.com.sa/en/product/487500A030",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:33.574Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.100Z"
   },
   "4882047040": {
    "part": "4882047040",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.575Z",
-   "checkedAt": "2026-11-06T06:49:33.575Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.101Z",
+   "checkedAt": "2026-11-06T07:21:19.101Z",
    "source": "https://parts.toyota.com.sa/en/product/4882047040",
    "offer": {
     "regular": 566.95,
     "sale": 481.91,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:33.575Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.101Z"
   },
   "4883047010": {
    "part": "4883047010",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.575Z",
-   "checkedAt": "2026-11-06T06:49:33.575Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.101Z",
+   "checkedAt": "2026-11-06T07:21:19.101Z",
    "source": "https://parts.toyota.com.sa/en/product/4883047010",
    "offer": {
     "regular": 431.25,
     "sale": 366.56,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:33.575Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.101Z"
   },
   "4806847060": {
    "part": "4806847060",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.575Z",
-   "checkedAt": "2026-11-06T06:49:33.575Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.101Z",
+   "checkedAt": "2026-11-06T07:21:19.101Z",
    "source": "https://parts.toyota.com.sa/en/product/4806847060",
    "offer": {
     "regular": 1461.65,
     "sale": 1242.4,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:33.575Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.101Z"
   },
   "4333009B21": {
    "part": "4333009B21",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.974Z",
-   "checkedAt": "2026-11-06T06:49:33.974Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.516Z",
+   "checkedAt": "2026-11-06T07:21:19.516Z",
    "source": "https://parts.toyota.com.sa/en/product/4333009B21",
    "offer": {
     "regular": 584.2,
     "sale": 496.57,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:33.974Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.516Z"
   },
   "4881502390": {
    "part": "4881502390",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.974Z",
-   "checkedAt": "2026-11-06T06:49:33.974Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.517Z",
+   "checkedAt": "2026-11-06T07:21:19.517Z",
    "source": "https://parts.toyota.com.sa/en/product/4881502390",
    "offer": {
     "regular": 85.1,
     "sale": 72.34,
     "percent": 14.99
    },
-   "offerCheckedAt": "2026-11-06T06:49:33.974Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.517Z"
   },
   "4355002130": {
    "part": "4355002130",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.974Z",
-   "checkedAt": "2026-11-06T06:49:33.974Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.517Z",
+   "checkedAt": "2026-11-06T07:21:19.517Z",
    "source": "https://parts.toyota.com.sa/en/product/4355002130",
    "offer": {
     "regular": 1286.85,
     "sale": 1093.82,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:33.974Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.517Z"
   },
   "487600A030": {
    "part": "487600A030",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.975Z",
-   "checkedAt": "2026-11-06T06:49:33.975Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.517Z",
+   "checkedAt": "2026-11-06T07:21:19.517Z",
    "source": "https://parts.toyota.com.sa/en/product/487600A030",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:33.975Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.517Z"
   },
   "4806947060": {
    "part": "4806947060",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.975Z",
-   "checkedAt": "2026-11-06T06:49:33.975Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.517Z",
+   "checkedAt": "2026-11-06T07:21:19.517Z",
    "source": "https://parts.toyota.com.sa/en/product/4806947060",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:33.975Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.517Z"
   },
   "4341002C80": {
    "part": "4341002C80",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.975Z",
-   "checkedAt": "2026-11-06T06:49:33.975Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.517Z",
+   "checkedAt": "2026-11-06T07:21:19.517Z",
    "source": "https://parts.toyota.com.sa/en/product/4341002C80",
    "offer": {
     "regular": 5414.2,
     "sale": 2683.36,
     "percent": 50.44
    },
-   "offerCheckedAt": "2026-11-06T06:49:33.975Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.517Z"
   },
   "4342002F80": {
    "part": "4342002F80",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:33.975Z",
-   "checkedAt": "2026-11-06T06:49:33.975Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.518Z",
+   "checkedAt": "2026-11-06T07:21:19.518Z",
    "source": "https://parts.toyota.com.sa/en/product/4342002F80",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:33.975Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.518Z"
   },
   "4341002C90": {
    "part": "4341002C90",
    "state": "unavailable",
-   "lastAttemptAt": "2026-11-06T06:49:33.975Z",
-   "checkedAt": "2026-11-06T06:49:33.975Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.518Z",
+   "checkedAt": "2026-11-06T07:21:19.518Z",
    "source": "https://parts.toyota.com.sa/en/product/4341002C90",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:33.975Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.518Z"
   },
   "4342002F90": {
    "part": "4342002F90",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:34.391Z",
-   "checkedAt": "2026-11-06T06:49:34.391Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.917Z",
+   "checkedAt": "2026-11-06T07:21:19.917Z",
    "source": "https://parts.toyota.com.sa/en/product/4342002F90",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:34.391Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.917Z"
   },
   "4341002D00": {
    "part": "4341002D00",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:34.391Z",
-   "checkedAt": "2026-11-06T06:49:34.391Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.917Z",
+   "checkedAt": "2026-11-06T07:21:19.917Z",
    "source": "https://parts.toyota.com.sa/en/product/4341002D00",
    "offer": {
     "regular": 5074.95,
     "sale": 4313.71,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:34.391Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.917Z"
   },
   "4342002G00": {
    "part": "4342002G00",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:34.392Z",
-   "checkedAt": "2026-11-06T06:49:34.392Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.917Z",
+   "checkedAt": "2026-11-06T07:21:19.917Z",
    "source": "https://parts.toyota.com.sa/en/product/4342002G00",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:34.392Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.917Z"
   },
   "4341002F01": {
    "part": "4341002F01",
    "state": "unavailable",
-   "lastAttemptAt": "2026-11-06T06:49:34.392Z",
-   "checkedAt": "2026-11-06T06:49:34.392Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.918Z",
+   "checkedAt": "2026-11-06T07:21:19.918Z",
    "source": "https://parts.toyota.com.sa/en/product/4341002F01",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:34.392Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.918Z"
   },
   "4342002K10": {
    "part": "4342002K10",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:34.392Z",
-   "checkedAt": "2026-11-06T06:49:34.392Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.918Z",
+   "checkedAt": "2026-11-06T07:21:19.918Z",
    "source": "https://parts.toyota.com.sa/en/product/4342002K10",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:34.392Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.918Z"
   },
   "1230524010": {
    "part": "1230524010",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:34.392Z",
-   "checkedAt": "2026-11-06T06:49:34.392Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.919Z",
+   "checkedAt": "2026-11-06T07:21:19.919Z",
    "source": "https://parts.toyota.com.sa/en/product/1230524010",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:34.392Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.919Z"
   },
   "12363F2050": {
    "part": "12363F2050",
    "state": "unknown",
-   "lastAttemptAt": "2026-11-06T06:49:34.392Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.919Z",
    "checkedAt": null,
    "source": "https://parts.toyota.com.sa/en/product/12363F2050",
    "reason": "source_unavailable",
@@ -641,264 +641,264 @@
   "1237224081": {
    "part": "1237224081",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:34.392Z",
-   "checkedAt": "2026-11-06T06:49:34.392Z",
+   "lastAttemptAt": "2026-11-06T07:21:19.920Z",
+   "checkedAt": "2026-11-06T07:21:19.920Z",
    "source": "https://parts.toyota.com.sa/en/product/1237224081",
    "offer": {
     "regular": 749.8,
     "sale": 637.33,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:34.392Z"
+   "offerCheckedAt": "2026-11-06T07:21:19.920Z"
   },
   "123050T440": {
    "part": "123050T440",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:34.755Z",
-   "checkedAt": "2026-11-06T06:49:34.755Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.366Z",
+   "checkedAt": "2026-11-06T07:21:20.366Z",
    "source": "https://parts.toyota.com.sa/en/product/123050T440",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:34.755Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.366Z"
   },
   "123630T091": {
    "part": "123630T091",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:34.755Z",
-   "checkedAt": "2026-11-06T06:49:34.755Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.366Z",
+   "checkedAt": "2026-11-06T07:21:20.366Z",
    "source": "https://parts.toyota.com.sa/en/product/123630T091",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:34.755Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.366Z"
   },
   "1237237313": {
    "part": "1237237313",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:34.755Z",
-   "checkedAt": "2026-11-06T06:49:34.755Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.366Z",
+   "checkedAt": "2026-11-06T07:21:20.366Z",
    "source": "https://parts.toyota.com.sa/en/product/1237237313",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:34.755Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.366Z"
   },
   "1230537390": {
    "part": "1230537390",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:34.755Z",
-   "checkedAt": "2026-11-06T06:49:34.755Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.366Z",
+   "checkedAt": "2026-11-06T07:21:20.366Z",
    "source": "https://parts.toyota.com.sa/en/product/1230537390",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:34.755Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.366Z"
   },
   "123630T110": {
    "part": "123630T110",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:34.755Z",
-   "checkedAt": "2026-11-06T06:49:34.755Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.367Z",
+   "checkedAt": "2026-11-06T07:21:20.367Z",
    "source": "https://parts.toyota.com.sa/en/product/123630T110",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:34.755Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.367Z"
   },
   "123720T660": {
    "part": "123720T660",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:34.755Z",
-   "checkedAt": "2026-11-06T06:49:34.755Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.367Z",
+   "checkedAt": "2026-11-06T07:21:20.367Z",
    "source": "https://parts.toyota.com.sa/en/product/123720T660",
    "offer": null,
-   "offerCheckedAt": "2026-11-06T06:49:34.755Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.367Z"
   },
   "1230515120": {
    "part": "1230515120",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:34.756Z",
-   "checkedAt": "2026-11-06T06:49:34.756Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.367Z",
+   "checkedAt": "2026-11-06T07:21:20.367Z",
    "source": "https://parts.toyota.com.sa/en/product/1230515120",
    "offer": {
     "regular": 1299.5,
     "sale": 1104.58,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:34.756Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.367Z"
   },
   "12363F3050": {
    "part": "12363F3050",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:34.756Z",
-   "checkedAt": "2026-11-06T06:49:34.756Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.367Z",
+   "checkedAt": "2026-11-06T07:21:20.367Z",
    "source": "https://parts.toyota.com.sa/en/product/12363F3050",
    "offer": {
     "regular": 541.65,
     "sale": 460.4,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:34.756Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.367Z"
   },
   "1237215301": {
    "part": "1237215301",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:35.155Z",
-   "checkedAt": "2026-11-06T06:49:35.155Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.710Z",
+   "checkedAt": "2026-11-06T07:21:20.710Z",
    "source": "https://parts.toyota.com.sa/en/product/1237215301",
    "offer": {
     "regular": 787.75,
     "sale": 669.59,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:35.155Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.710Z"
   },
   "0888681905": {
    "part": "0888681905",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:35.155Z",
-   "checkedAt": "2026-11-06T06:49:35.155Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.710Z",
+   "checkedAt": "2026-11-06T07:21:20.710Z",
    "source": "https://parts.toyota.com.sa/en/product/0888681905",
    "offer": {
     "regular": 501.4,
     "sale": 401.12,
     "percent": 20.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:35.155Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.710Z"
   },
   "0888681885": {
    "part": "0888681885",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:35.156Z",
-   "checkedAt": "2026-11-06T06:49:35.156Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.710Z",
+   "checkedAt": "2026-11-06T07:21:20.710Z",
    "source": "https://parts.toyota.com.sa/en/product/0888681885",
    "offer": {
     "regular": 431.25,
     "sale": 366.56,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:35.156Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.710Z"
   },
   "9098113091": {
    "part": "9098113091",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:35.156Z",
-   "checkedAt": "2026-11-06T06:49:35.156Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.711Z",
+   "checkedAt": "2026-11-06T07:21:20.711Z",
    "source": "https://parts.toyota.com.sa/en/product/9098113091",
    "offer": {
     "regular": 286.35,
     "sale": 243.4,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:35.156Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.711Z"
   },
   "0882380270": {
    "part": "0882380270",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:35.156Z",
-   "checkedAt": "2026-11-06T06:49:35.156Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.711Z",
+   "checkedAt": "2026-11-06T07:21:20.711Z",
    "source": "https://parts.toyota.com.sa/en/product/0882380270",
    "offer": {
     "regular": 55.78,
     "sale": 47.41,
     "percent": 15.01
    },
-   "offerCheckedAt": "2026-11-06T06:49:35.156Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.711Z"
   },
   "1667124010": {
    "part": "1667124010",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:35.157Z",
-   "checkedAt": "2026-11-06T06:49:35.157Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.711Z",
+   "checkedAt": "2026-11-06T07:21:20.711Z",
    "source": "https://parts.toyota.com.sa/en/product/1667124010",
    "offer": {
     "regular": 359.95,
     "sale": 305.96,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:35.157Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.711Z"
   },
   "8720912760": {
    "part": "8720912760",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:35.157Z",
-   "checkedAt": "2026-11-06T06:49:35.157Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.711Z",
+   "checkedAt": "2026-11-06T07:21:20.711Z",
    "source": "https://parts.toyota.com.sa/en/product/8720912760",
    "offer": {
     "regular": 356.5,
     "sale": 303.03,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:35.157Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.711Z"
   },
   "1667125070": {
    "part": "1667125070",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:35.157Z",
-   "checkedAt": "2026-11-06T06:49:35.157Z",
+   "lastAttemptAt": "2026-11-06T07:21:20.711Z",
+   "checkedAt": "2026-11-06T07:21:20.711Z",
    "source": "https://parts.toyota.com.sa/en/product/1667125070",
    "offer": {
     "regular": 359.95,
     "sale": 305.96,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:35.157Z"
+   "offerCheckedAt": "2026-11-06T07:21:20.711Z"
   },
   "9043018008": {
    "part": "9043018008",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:35.610Z",
-   "checkedAt": "2026-11-06T06:49:35.610Z",
+   "lastAttemptAt": "2026-11-06T07:21:21.187Z",
+   "checkedAt": "2026-11-06T07:21:21.187Z",
    "source": "https://parts.toyota.com.sa/en/product/9043018008",
    "offer": {
     "regular": 6.13,
     "sale": 5.21,
     "percent": 15.01
    },
-   "offerCheckedAt": "2026-11-06T06:49:35.610Z"
+   "offerCheckedAt": "2026-11-06T07:21:21.187Z"
   },
   "9043012008": {
    "part": "9043012008",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:35.611Z",
-   "checkedAt": "2026-11-06T06:49:35.611Z",
+   "lastAttemptAt": "2026-11-06T07:21:21.187Z",
+   "checkedAt": "2026-11-06T07:21:21.187Z",
    "source": "https://parts.toyota.com.sa/en/product/9043012008",
    "offer": {
     "regular": 6.03,
     "sale": 5.12,
     "percent": 15.09
    },
-   "offerCheckedAt": "2026-11-06T06:49:35.611Z"
+   "offerCheckedAt": "2026-11-06T07:21:21.187Z"
   },
   "3516812091": {
    "part": "3516812091",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:35.611Z",
-   "checkedAt": "2026-11-06T06:49:35.611Z",
+   "lastAttemptAt": "2026-11-06T07:21:21.188Z",
+   "checkedAt": "2026-11-06T07:21:21.188Z",
    "source": "https://parts.toyota.com.sa/en/product/3516812091",
    "offer": {
     "regular": 51.75,
     "sale": 43.99,
     "percent": 15.0
    },
-   "offerCheckedAt": "2026-11-06T06:49:35.611Z"
+   "offerCheckedAt": "2026-11-06T07:21:21.188Z"
   },
   "3533012050": {
    "part": "3533012050",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:35.611Z",
-   "checkedAt": "2026-11-06T06:49:35.611Z",
+   "lastAttemptAt": "2026-11-06T07:21:21.188Z",
+   "checkedAt": "2026-11-06T07:21:21.188Z",
    "source": "https://parts.toyota.com.sa/en/product/3533012050",
    "offer": {
     "regular": 414.0,
     "sale": 174.33,
     "percent": 57.89
    },
-   "offerCheckedAt": "2026-11-06T06:49:35.611Z"
+   "offerCheckedAt": "2026-11-06T07:21:21.188Z"
   },
   "9030122019": {
    "part": "9030122019",
    "state": "available",
-   "lastAttemptAt": "2026-11-06T06:49:35.611Z",
-   "checkedAt": "2026-11-06T06:49:35.611Z",
+   "lastAttemptAt": "2026-11-06T07:21:21.188Z",
+   "checkedAt": "2026-11-06T07:21:21.188Z",
    "source": "https://parts.toyota.com.sa/en/product/9030122019",
    "offer": {
     "regular": 15.85,
     "sale": 13.47,
     "percent": 15.02
    },
-   "offerCheckedAt": "2026-11-06T06:49:35.611Z"
+   "offerCheckedAt": "2026-11-06T07:21:21.188Z"
   }
  },
  "refreshAfterHours": 6
