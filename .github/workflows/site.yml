@@ -1,7 +1,5 @@
-name: Website and 9-hour dealer check
+name: 9-hour dealer check
 on:
-  push:
-    branches: [main]
   schedule:
     # Wakes up every hour; the check only runs when the last one is 9 hours old.
     # GitHub sometimes skips scheduled runs, so the next hour catches up.
@@ -9,18 +7,13 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
-  pages: write
-  id-token: write
 concurrency:
-  group: corolla-pages
+  group: corolla-check
   cancel-in-progress: false
 jobs:
   check:
     runs-on: ubuntu-latest
     timeout-minutes: 20
-    outputs:
-      due: ${{ steps.due.outputs.due }}
-      not_renewed: ${{ steps.report.outputs.not_renewed }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -52,36 +45,11 @@ jobs:
             git commit -m 'Update dealer availability and offers'
             git push origin HEAD:main
           fi
-      - name: Count part numbers the dealer did not confirm
-        id: report
-        if: steps.due.outputs.due == 'true'
-        run: python3 -c "import json,os; r=json.load(open('refresh-report.json')); open(os.environ['GITHUB_OUTPUT'],'a').write('not_renewed=%d\n' % len(r['notRenewed']))"
-  publish:
-    needs: check
-    if: github.event_name == 'push' || needs.check.outputs.due == 'true'
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-      - name: Prepare website files
-        run: |
-          mkdir _site
-          cp index.html catalog.json data.json _site/
-          touch _site/.nojekyll
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-      - name: Publish Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
       - name: Report part numbers the dealer did not confirm
-        if: needs.check.outputs.not_renewed != '' && needs.check.outputs.not_renewed != '0'
+        if: steps.due.outputs.due == 'true'
         run: |
-          echo "${{ needs.check.outputs.not_renewed }} part numbers were not confirmed by the dealer. See the check job summary."
-          exit 1
+          n=$(python3 -c "import json; print(len(json.load(open('refresh-report.json'))['notRenewed']))")
+          if [ "$n" != "0" ]; then
+            echo "$n part numbers were not confirmed by the dealer. See the summary above."
+            exit 1
+          fi
